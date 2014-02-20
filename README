@@ -1,0 +1,22 @@
+#########################################################################################
+#                                                                                       #
+#                                    Daniel Cardoso                                     #
+#                               daniel.cardoso18@live.com                               #
+#                                                                                       #
+#                                       PADI-FS                                         #
+#                                                                                       #
+#                         Last Updated: 2013                                            #
+#                                   by: Daniel Cardoso                                  #
+#                                                                                       #
+#########################################################################################
+
+To install just run the file PuppetMaster.exe in the folder exe.
+	all the other .exe and the .dll must be in the same folder as PuppetMaster.
+	
+Use the interface to Run the commands you desire.
+
+Special Properties:
+	- The button Dump is only for MD and DS that you have to select in the combobox.
+	- The button Dump Client is to cump the client select in the Client ComboBox.
+	-The Server selected in the combobox is the one where the command Fail... is performed.
+	- The client select in the Client comobox is the one where the commands Create..W/R is performed
